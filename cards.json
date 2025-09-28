@@ -1,0 +1,872 @@
+[
+  {
+    "id": 0,
+    "name": "The Blank",
+    "image": "images/0_TheBlank.png",
+    "alt": "a plain, white card with a zero on the top and the words The Blank at the bottom.",
+    "description": "'In the beginning was the Word, and the Word was with God, and the Word was God' John 1:1. Before the beginning, there is a blank page--this is your canvas for creation. You are tapping into inner awareness; you are at the very start of something new. This is a clean slate for you; you create your reality--the choice is yours. It's up to you to determine the next chapter in your story.",
+    "keywords": [
+      "Clean Slate",
+      "Blank Canvas"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "The Manifestor",
+    "image": "images/1_TheManifestor.png",
+    "alt": "A red background with a white number one at the top and the words 'The Manifestor' at the bottom. In the middle there is a multicolored illustration of a 'hand of Hamsa' in the upside down position",
+    "description": "The power is in your hands; you can manifest anything you want! You have stepped into your power. Your manifestation powers are at an all-time high so be mindful of your thoughts, words, and intentions, as they will manifest more rapidly.",
+    "keywords": [
+      "Rapid Manifestation",
+      "Creation"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "The Guardian",
+    "image": "images/2_TheGuardian.png",
+    "alt": "A red background with a white number two at the top and the words 'The Guardian' at the bottom. In the middle there is a multicolored illustration of a 'hand of Hamsa' in the up position",
+    "description": "You are protected from all harm and evil. You are safe; you are watched over. Your creations and projects are safe. It is safe to move forward.",
+    "keywords": [
+      "Protection",
+      "Safety"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Blessing",
+    "image": "images/3_TheBlessing.png",
+    "alt": "A blue background with a white number three at the top and the words 'The Blessing' at the bottom. In the middle there is a multicolored illustration of a 'hand of Hamsa' in the down position",
+    "description": "A blessing is here for you now; you are blessed! Your projects are blessed; be open to receive.",
+    "keywords": [
+      "Blessings",
+      "Receiving"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Treasure",
+    "image": "images/4_TheTreasure/png",
+    "alt": "a blue background with a white number four at the top and the words 'The Tresure' at the bottom. A white illustration of an open treasure chest with coins coming out of it are in the middle of the card.",
+    "description": "There is treasure in this situation; dig deeper to find it. Change your perspective to perceive it. You may be receiving an unexpected gift. Something is working out in your favor.",
+    "keywords": [
+      "Treasure",
+      "Gratitude"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "The Door",
+    "image": "images/5_TheDoor.png",
+    "alt": "a blue background with a white number five at the top and the words 'The Door' at the bottom. A black and white illustration of an open door with stars at the center, depicted in the middle of the card.",
+    "description": "An opportunity will present itself to you and it's up to you to choose whether to take it or not. It's up to you whether to walk into this unknown...this a new beginning. There are only blessings beyond the door; walk forward in faith.",
+    "keywords": [
+      "Trust",
+      "Opening"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Numbers",
+    "image": "images/6_TheNumbers.png",
+    "alt": "a blue background with a white number six at the top and the words 'The Numbers' at the bottom. Four multicolored dice are depicted in the middle of the card.",
+    "description": "It's a lucky day to gamble; pay attention to the numbers received in your dreams or in signs. Take a chance on your dreams. Calculated risks.",
+    "keywords": [
+      "Gambling",
+      "Signs"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "The Child",
+    "image": "images/7_TheChild.png",
+    "alt": "a red background with a white number seven at the top and the words 'The Child' at the bottom. An illustration of a smiling little girl with pigtails, at the center",
+    "description": "Your inner child has an important message to share with you; tap in to find out what that is. Connect with your childhood dreams and desires; make time for play. Some lesson or pattern from your childhood is coming up to teach you something important or to be released.",
+    "keywords": [
+      "Childhood",
+      "Play"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "The Message",
+    "image": "images/8_TheMessage.png",
+    "alt": "a red background with a white number eight at the top and the words 'The Message' at the bottom. An illustration of a white handwritten letter at the center",
+    "description": "An important message is on the way to you; something which will provide you with the clarity you need. Pay attention to the signs and to your dreams.",
+    "keywords": [
+      "Information",
+      "Revelations"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "The Love",
+    "image": "images/9_TheLove.png",
+    "alt": "a red background with a white number nine at the top and the words 'The Love' at the bottom. An illustration of a pink heart at the center",
+    "description": "There is love within you and all around you; see it, feel it, and receive it. Open yourself to the love here for you now. New love or strengthening of current bonds are possible now.",
+    "keywords": [
+      "Heart",
+      "Love"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "The Song",
+    "image": "images/10_TheSong.png",
+    "alt": "a blue background with a white number ten at the top and the words 'The Song' at the bottom. A white illustration of a bird and musical notes, depicted in the middle of the card.",
+    "description": "Be open to creativity; pay attention to your words which have great power. Chanting or speaking up can help you overcome obstacles. Music can also help to elevate your vibrations and help you manifest. Also pay attention to words in songs for messages from Spirit.",
+    "keywords": [
+      "Music",
+      "Inspiration"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "The Help",
+    "image": "images/11_TheHelp.png",
+    "alt": "A red background with a white number eleven at the top and the words 'The Help' at the bottom. In the middle there is a multicolored illustration of a 'hand of Hamsa' in the down position",
+    "description": "Help is on the way! Being rescued; feeling supported. Also don't be afraid to ask for help. Be open to receiving the help you need; you don't need to do this alone.",
+    "keywords": [
+      "Assistance",
+      "Support"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Magic",
+    "image": "images/12_TheMagic.png",
+    "alt": "a red background with a white number twelve at the top and the words 'The Magic' at the bottom. An illustration of a black and white holy chalice at the center",
+    "description": "There is magic within you and all around you. Magical occurrences and synchronicity. Today is special for spells and rituals. You have more power than you think. Magic is afoot. Magical solutions.",
+    "keywords": [
+      "Spells",
+      "Rituals"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "The Home",
+    "image": "images/13_TheHome.png",
+    "alt": "a bright green background with a white number thirteen at the top and the words 'The Home' at the bottom. A black illustration of a castle, depicted in the middle of the card.",
+    "description": "You are receiving a new home, or a move to a new home. Pay attention to your home. Possible home renovations.",
+    "keywords": [
+      "House",
+      "Home"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "The Trip",
+    "image": "images/14_TheTrip.png",
+    "alt": "a blue background with a white number fourteen at the top and the words 'The Trip' at the bottom. A black and white illustration of a place, passport, and map, depicted in the middle of the card.",
+    "description": "You are traveling or moving; movement in projects and goals. Movement is encouraged. Physical or spiritual travel.",
+    "keywords": [
+      "Travel",
+      "Movement"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "The Laughter",
+    "image": "images/15_TheLaughter.png",
+    "alt": "a bright green background with a white number fifteen at the top and the words 'The Laughter' at the bottom. A black andwhite illustration of two stick figures laughing, depicted in the middle of the card.",
+    "description": "Don't take things so seriously. Finding the humor in your situation. Make time to laugh today. Connect with loved ones to cheer you up.",
+    "keywords": [
+      "Jokes",
+      "Funny"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "The Peace",
+    "image": "images/16_ThePeace.png",
+    "alt": "a blue background with a white number sixteen at the top and the words 'The Peace' at the bottom. A white illustration of a dove holding an olive branch, depicted in the middle of the card.",
+    "description": "Peace is here; no need to worry. Peaceful solutions and resolutions are coming your way. Take a balanced approach. The path of least resistance.",
+    "keywords": [
+      "Conflict Resolution",
+      "Solutions"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "The Wild Card",
+    "image": "images/17_TheWildCard.png",
+    "alt": "a plain, white card with a black number seventeen at the top and the words 'The Wildcard' at the bottom. A multicolored diamond shape depicted at the center, using all of the colors within the deck.",
+    "description": "The Universe is in charge today--anything can happen in the best way! Best possible outcomes but the Universe is in charge of the form. Surrender to the blessed changes here for you.",
+    "keywords": [
+      "Blessed Changes",
+      "Expect the Unexpected"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "The Lucky",
+    "image": "images/18_TheLucky.png",
+    "alt": "a bright green background with a white number eighteen at the top and the words 'The Lucky' at the bottom. An illustration of a four leaf clover and a rainbow, depicted in the middle of the card.",
+    "description": "Lucky breaks and occurences are possible today. Feel yourself vibrating with luck! Today is great to play the lotto or games of chance. Take a risk!",
+    "keywords": [
+      "Good Luck",
+      "Synchronicity"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Power",
+    "image": "images/19_ThePower.png",
+    "alt": "a blue background with a white number nineteen at the top and the words 'The Power' at the bottom. A black and white illustration of an upright fist, depicted in the middle of the card.",
+    "description": "You have the power; Spirit is supporting you and sharing their powers with you. Know that you have what it takes to overcome anything! You are a powerhouse!",
+    "keywords": [
+      "Power",
+      "Authority"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "The Key",
+    "image": "images/20_TheKey.png",
+    "alt": "a blue background with a white number twenty at the top and the words 'The Key' at the bottom. A white illustration of an intricate key, depicted in the middle of the card.",
+    "description": "You have the tools and resources to get out of any sticky situation. Solutions are on the way. Resources are on the way. A golden opportunity. Creative solutions from Spirit.",
+    "keywords": [
+      "Unlock",
+      "Tools"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "The Calm",
+    "image": "images/21_TheCalm.png",
+    "alt": "a blue background with a white number 21 at the top and the words 'The Calm' at the bottom. A white illustration of wind depicted in the middle of the card.",
+    "description": "No need to worry; connect with your breathing for grounding and stability. A breath of fresh air. Moving away from hardships. Everything is working in your favor!",
+    "keywords": [
+      "Relaxation",
+      "Breath"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "The Marriage",
+    "image": "images/22_TheMarriage.png",
+    "alt": "a red background with a white number 22 at the top and the words 'The Marriage' at the bottom. A black and white illustration of two connected wedding rings at the center",
+    "description": "A romantic partnership; could also be a strong, platonic partnership. Committments and contracts that are blessed; go for it! An upgrade in a partnership. Strong bonds of love.",
+    "keywords": [
+      "Partnership",
+      "Committment"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "The Husband",
+    "image": "images/23_TheHusband.png",
+    "alt": "a red background with a white number 23 at the top and the words 'The Husband' at the bottom. A black and white illustration of a man in a suit at the center of the card",
+    "description": "A worthy mate; Divine Masculine partnership; a protector and provider.",
+    "keywords": [
+      "Mate",
+      "Masculine"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "The Pleasure",
+    "image": "images/24_ThePleasure.png",
+    "alt": "a red background with a white number 24 at the top and the words 'The Pleasure' at the bottom. A black and white illustration of a pair of lips and two people kissing, at the center of the card",
+    "description": "Romantic and sexual pleasure; tapping into your sensuality. Connecting with the lower chakras. Being open to intimacy.",
+    "keywords": [
+      "Sex",
+      "Intimacy"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "The Romance",
+    "image": "images/25_TheRomance.png",
+    "alt": "a red background with a white number 25 at the top and the words 'The Romance' at the bottom. A white illustration of couple getting engaged, at the center of the card",
+    "description": "Romantic encounters and connections. Meeting a new mate.",
+    "keywords": [
+      "New Love",
+      "Courtship"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "The Sweetness",
+    "image": "images/26_TheSweetness.png",
+    "alt": "a bright green background with a white number 26 at the top and the words 'The Sweetness' at the bottom. A black illustration of a honeybee and honey jar depicted in the middle of the card.",
+    "description": "Being open to the sweetness of life; sweet words and sweet interactions. Abundance. Sweet moments and opporutnities. Look and feel your best today.",
+    "keywords": [
+      "Abundance",
+      "Good times"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "The Dream",
+    "image": "images/27_TheDream.png",
+    "alt": "A purple background with a white number 27 at the top and the words 'The Dream' at the bottom. In the middle there is a multicolored illustration of a dream catcher, and a head with stars coming out of it, located at the center of the card.",
+    "description": "Spirit is speaking to you in dreams; pay attention to your dreams. Write your dreams down for clues to your query. Pay attention to the signs in your life.",
+    "keywords": [
+      "Messages",
+      "Signs"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "The Attraction",
+    "image": "images/28_TheAttraction.png",
+    "alt": "a red background with a white number 28 at the top and the words 'The Attraction' at the bottom. A black and white illustration of a magnet, at the center of the card",
+    "description": "You are manifesting rapidly; your attraction is at an all-time high. Be careful of the words you speak because they are rapidly taking form. You are attracting your desires with ease.",
+    "keywords": [
+      "Manifesting",
+      "Magnetism"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "The Land",
+    "image": "images/29_TheLand.png",
+    "alt": "a bright green background with a white number 29 at the top and the words 'The Land' at the bottom. A black illustration of a sunny, open field depicted in the middle of the card.",
+    "description": "Inheritances; establishing a foundation for yourself. Possibly receiving a new home or property, or moving. Getting grounded and connecting with Earth. Eating more whole foods. Giving back to Mama Earth. Following your dream life.",
+    "keywords": [
+      "Grounding",
+      "Earth"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "The Clarity",
+    "image": "images/30_TheClarity.png",
+    "alt": "a blue background with a white number 30 at the top and the words 'The Clarity' at the bottom. A white illustration of an open eye surrounded by stars and light, depicted in the middle of the card.",
+    "description": "Confusions getting cleared up; revelations; knowingness. Moving forward with confidence; you know what to do. Trust yourself and your intuition.",
+    "keywords": [
+      "Intuition",
+      "Insight"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "The Playtime",
+    "image": "images/31_ThePlaytime.png",
+    "alt": "a bright green background with a white number 31 at the top and the words 'The Playtime' at the bottom. A multicolored illustration of alphabet blocks, puzzle pieces, and a spring toy, depicted in the middle of the card.",
+    "description": "Make time to have fun and play today! Take a break from work. Vacations and days off. Learning thru play.",
+    "keywords": [
+      "Fun",
+      "Play"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "The Jackpot",
+    "image": "images/32_TheJackpot.png",
+    "alt": "a red background with a white number 32 at the top and the words 'The Jackpot' at the bottom. A black and white illustration of a pot of gold; the coins with a four leaf clover at the center. The words 'Winner' at the center of the pot. The pot is located at the center of the card",
+    "description": "Victory, winning, lucky breaks. A good day to gamble. Your ships are coming in; blessed karma coming back to you. Something you created will be fruitful.",
+    "keywords": [
+      "Luck",
+      "Gambling"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "The Inspiration",
+    "image": "images/33_TheInspiration.png",
+    "alt": "A purple background with a white number 33 at the top and the words 'The Inspiration' at the bottom. In the middle there is a multicolored illustration of a whimsical representation of inspiration",
+    "description": "You are receiving Divine downloads; pay attention and connect with what comes up. Today is great for creating something new or completing artisitc projects. Creative solutions. Options.",
+    "keywords": [
+      "Creativity",
+      "Art"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "The Solution",
+    "image": "images/34_TheSolution.png",
+    "alt": "a bright green background with a white number 34 at the top and the words 'The Solution' at the bottom. A multicolored illustration of check mark, depicted in the middle of the card.",
+    "description": "Everything is being taken care of for you; no need to stress. Spirit is handling this. Pay attention to the messages they have for you; connect to Spirit for guidance on what to do next, if anything. But you are being helped and supported. Solutions are on the way!",
+    "keywords": [
+      "Solutions",
+      "Support"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "The Cure",
+    "image": "images/35_TheCure.png",
+    "alt": "a blue background with a white number 35 at the top and the words 'The Cure' at the bottom. A black and white illustration of a brain with a caduceus at the center, and hands surrounding the brain. This is depicted in the middle of the card.",
+    "description": "Profound healing; miraculous healing and healing interventions. Pay attention to the messages Spirit has for you on your healing journey; solutions and resources are on the way! You are healed and whole!",
+    "keywords": [
+      "Healing",
+      "Medicine"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "The Gift",
+    "image": "images/36_TheGift.png",
+    "alt": "a blue background with a white number 36 at the top and the words 'The Gift' at the bottom. A purple illustration of gift box, depicted in the middle of the card.",
+    "description": "An unexpected gift is on the way to you! Be open to the forms your manifestations take; remain in gratitude",
+    "keywords": [
+      "Gifts",
+      "Surprises"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "The Fun",
+    "image": "images/37_TheFun.png",
+    "alt": "A purple background with a white number 37 at the top and the words 'The Fun' at the bottom. In the middle there is a multicolored illustration of champagne glasses and balloons.",
+    "description": "Celebrations! Gathering with loved ones; reasons to celebrate. Getting together with groups of people.",
+    "keywords": [
+      "Parties",
+      "Celebration"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "The Success",
+    "image": "images/38_TheSuccess.png",
+    "alt": "a bright green background with a white number 38 at the top and the words 'The Success' at the bottom. A black illustration of a crown depicted in the middle of the card.",
+    "description": "Your creations will be successful. You have every reason to rejoice; you are successful already. You are on the golden road.",
+    "keywords": [
+      "Victory",
+      "Accomplishment"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "The Income",
+    "image": "images/39_TheIncome.png",
+    "alt": "a bright green background with a white number 39 at the top and the words 'The Income' at the bottom. A black illustration of an envelope with money coming out of it, depicted in the middle of the card.",
+    "description": "Money is on the way; new opportunities for income are on the way. Divine downloads and creative solutions to any money problems.",
+    "keywords": [
+      "Money",
+      "Employment"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "The Business",
+    "image": "images/40_TheBusiness.png",
+    "alt": "A purple background with a white number 40 at the top and the words 'The Business' at the bottom. In the middle there is a multicolored illustration of the word 'Boss!'.",
+    "description": "Entrepreneurship or investment opportunities. Successful money endeavors.",
+    "keywords": [
+      "Entrepreneurship",
+      "Investments"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "The Liberation",
+    "image": "images/41_TheLiberation.png",
+    "alt": "a bright green background with a white number 41 at the top and the words 'The Liberation' at the bottom. A black illustration of a broken chain and fists breaking free from shackles, depicted in the middle of the card.",
+    "description": "You are free from toxic energies that have been keeping you stuck; you are free from obstacles and stagnant energy. Also consider breaking ties with limiting thoughts, beliefs, and people.",
+    "keywords": [
+      "Freedom",
+      "Liberty"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "The Opportunity",
+    "image": "images/42_TheOpportunity.png",
+    "alt": "a bright green background with a white number 42 at the top and the words 'The Opportunity' at the bottom. A white illustration of a winding road depicted in the middle of the card.",
+    "description": "The road of opportunity is open to you. All manner of opportunities are available to you; free from obstacles.",
+    "keywords": [
+      "Open roads",
+      "Clearing"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "The Joy",
+    "image": "images/43_TheJoy",
+    "alt": "a blue background with a white number 43 at the top and the words 'The Joy' at the bottom. A white illustration of figures jumping for joy, depicted in the middle of the card.",
+    "description": "You have every reason to be hopeful and joyful! It's time to celebrate your accomplishments; successful completion of a cycle. Spirit is celebrating you and celebrating with you; good news is on the way!",
+    "keywords": [
+      "Celebration",
+      "Happiness"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "The Awareness",
+    "image": "images/44_TheAwareness.png",
+    "alt": "a red background with a white number 44 at the top and the words 'The Awareness' at the bottom. A multicolored illustration of an open eye at the center of the card",
+    "description": "You are perfect as you are and everything is working out perfectly for you. Tap in to your inner witness for relief and peace. Useful Divine downloads are possible now. Connect with Spirit for guidance. Tapping in to your innate gifts and powers.",
+    "keywords": [
+      "Meditation",
+      "Intuition"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "The Wealth",
+    "image": "images/45_TheWealth.png",
+    "alt": "a bright green background with a white number 45 at the top and the words 'The Wealth' at the bottom. A black illustration of stacks of money depicted in the middle of the card.",
+    "description": "Money, opportunities, success; Abundance! Successful projects and investments",
+    "keywords": [
+      "Affluence",
+      "Investments"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "The Dance",
+    "image": "images/46_TheDance.png",
+    "alt": "A purple background with a white number 46 at the top and the words 'The Dance' at the bottom. In the middle there is a white illustration of dancing figures.",
+    "description": "Tap into the joy of the Universe! Dance in alignment to the Universe; dancing and movement will raise your vibes. You are in alignment with your best and highest good.",
+    "keywords": [
+      "Movement",
+      "Alignment"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "The Hands of God",
+    "image": "images/47_TheHandsofGod.png",
+    "alt": "a red background with a white number 47 at the top and the words 'The Hands of God' at the bottom. A white illustration of two hands at the center of the card",
+    "description": "You are in God's Hands; always protected and taken care of. Lay all your burdens in God's hands...all of your problems are already taken care of. All of your needs are and will be met. A reminder of God's complete love for you.",
+    "keywords": [
+      "Source",
+      "Surrender"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "The Check",
+    "image": "images/48_TheCheck.png",
+    "alt": "a bright green background with a white number 48 at the top and the words 'The Check' at the bottom. A black and white illustration of a blank check depicted in the middle of the card.",
+    "description": "Your needs are being met; unexpected money or resources. A new source of income.",
+    "keywords": [
+      "Money",
+      "Payment"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "The Sales",
+    "image": "images/49_TheSales.png",
+    "alt": "a bright green background with a white number 49 at the top and the words 'The Sales' at the bottom. A black illustration of a figure in front of a laptop with dollar signs behind them, depicted in the middle of the card.",
+    "description": "Successful business endeavors; entrepreneurship encouraged.",
+    "keywords": [
+      "Business",
+      "Clients"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "The Six Figures",
+    "image": "images/50_TheSixFigures.png",
+    "alt": "a bright green background with a white number 50 at the top and the words 'The Six Figures' at the bottom. A black and white illustration of a money bag filled with coins with dollar signs on them, depicted in the middle of the card.",
+    "description": "Prosperity; success in business and career. A raise or promotion, or new clients. Raising your standards and prices.",
+    "keywords": [
+      "Windfall",
+      "Prosperity"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "The Companion",
+    "image": "images/51_TheCompanion.png",
+    "alt": "a blue background with a white number 51 at the top and the words 'The Companion' at the bottom. A white illustration of a dog, depicted in the middle of the card.",
+    "description": "Signs of loyalty and support, physically and spiritually.",
+    "keywords": [
+      "Partnership",
+      "Loyalty"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "The Celebrity",
+    "image": "images/52_TheCelebrity.png",
+    "alt": "a blue background with a white number 52 at the top and the words 'The Celebrity' at the bottom. A white illustration of a pair of sunglasses, depicted in the middle of the card.",
+    "description": "Being in the limelight or spotlight; being in the public eye. Dream opportunities. Working with superstar clients. Overall success.",
+    "keywords": [
+      "Fame",
+      "Spotlight"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "The Team",
+    "image": "images/53_TheTeam.png",
+    "alt": "a blue background with a white number 53 at the top and the words 'The Team' at the bottom. A multicolored illustration of a group of working people, depicted in the middle of the card.",
+    "description": "A community of support; possibly hiring people. Working in a group. Being supported. Receiving help.",
+    "keywords": [
+      "Collaboration",
+      "Colleagues"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "The Miracle",
+    "image": "images/54_TheMiracle.png",
+    "alt": "a blue background with a white number 54 at the top and the words 'The Miracle' at the bottom. A white illustration of the sun, moon, and stars, depicted in the middle of the card.",
+    "description": "Divine intervention and support. Miraculous support and healing. Unexpected blessings and solutions. Surrender your worries.",
+    "keywords": [
+      "Divine intervention",
+      "Miraculous aid"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "The Confidence",
+    "image": "images/55_TheConfidence.png",
+    "alt": "a blue background with a white number 55 at the top and the words 'The Confidence' at the bottom. A white illustration of a roaring lion, depicted in the middle of the card.",
+    "description": "Stand in your power; move forward confidently. Spirit is boosting your confidence. Positions or roles of leadership.",
+    "keywords": [
+      "Authority",
+      "Power"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "The Victory",
+    "image": "images/56_TheVictory.png",
+    "alt": "a blue background with a white number 56 at the top and the words 'The Victory' at the bottom. A white illustration of a figure holding up a trophy, depicted in the middle of the card.",
+    "description": "Spirit is lending a hand and giving you the strength you need. You will be victorious! There is great strength in your gifts.",
+    "keywords": [
+      "Triumph",
+      "Strength"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "The Wishes Fulfilled",
+    "image": "images/57_TheWishesFulfilled.png",
+    "alt": "a bright green background with a white number 57 at the top and the words 'The Wishes Fulfilled' at the bottom. A black illustration of a genie lamp with smoke rising out of the tip, depicted in the middle of the card.",
+    "description": "Make a wish! A wish card; wishes coming true! Rapid manifestation.",
+    "keywords": [
+      "Fulfillment",
+      "Answered Prayers"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "The Knowledge",
+    "image": "images/58_TheKnowledge.png",
+    "alt": "a bright green background with a white number 58 at the top and the words 'The Knowledge' at the bottom. A black illustration of an open scroll depicted in the middle of the card.",
+    "description": "Learning new skills; new gifts from Spirit. Remembering wisdom from past lives. Discovery and wonder. Useful information.",
+    "keywords": [
+      "Informative insights",
+      "Learning"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "The Connection",
+    "image": "images/59_TheConnection.png",
+    "alt": "a blue background with a white number 59 at the top and the words 'The Connection' at the bottom. A black and white illustration of a doorway with stairs leading up into a starry night, depicted in the middle of the card",
+    "description": "You are connected with Spirit; Spirit is sending you needed guidance. When you are connected you can allow Spirit to work through you and for you; channeling Spirit. Channeling the Divine Spark of creation.",
+    "keywords": [
+      "Channeling",
+      "Mediumship"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "The Luxe",
+    "image": "images/60_TheLuxe.png",
+    "alt": "a bright green background with a white number 60 at the top and the words 'The Luxe' at the bottom. A black illustration of two diamonds on top of an open jewelry box, with other jewels inside, depicted in the middle of the card.",
+    "description": "An upgrade in your financial circumstances; splurging on yourself; treating and pampering yourself. Focusing on self-care and wellness. Investing in yourself.",
+    "keywords": [
+      "Luxury",
+      "Pampering"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "The Shopping",
+    "image": "images/61_TheShopping.png",
+    "alt": "a bright green background with a white number 61 at the top and the words 'The Shopping' at the bottom. A multicolored illustration of shopping bags depicted in the middle of the card.",
+    "description": "Abundance exhange; giving and receiving money and gifts; paying it forward. Being in the flow of abundance. Treating yourself. Also could mean more profits heading your way if you are a business owner.",
+    "keywords": [
+      "Splurging",
+      "Exchange"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "The Graduation",
+    "image": "images/62_TheGraduation.png",
+    "alt": "a blue background with a white number 62 at the top and the words 'The Graduation' at the bottom. A white illustration of a graduation cap and diploma, depicted in the middle of the card",
+    "description": "Successfully completing a lesson; successful outcomes; success in school or learning. Mastering a subject.",
+    "keywords": [
+      "Lesson Learned",
+      "Completion"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "The Family",
+    "image": "images/63_TheFamily.png",
+    "alt": "a bright green background with a white number 63 at the top and the words 'The Family' at the bottom. A multicolored illustration of 5 distinct figures hugging and forming the shape of a star, depicted in the middle of the card.",
+    "description": "Growing or expanding your family. Solutions are within your family life and family relationships. Bonding and connecting with family members.",
+    "keywords": [
+      "Heritage",
+      "Lineage"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "The Shield",
+    "image": "images/64_TheShield.png",
+    "alt": "a red background with a white number 64 at the top and the words 'The Shield' at the bottom. A black and white illustration of a shield with wings, depicted at the center of the card",
+    "description": "You and your family are safe; your home and life are safe. You are completely safe and protected. No harm can penetrate this shield. No harm will befall you or your loved ones.",
+    "keywords": [
+      "Safety",
+      "Protection"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "The Winds of Change",
+    "image": "images/65_TheWindsofChange.png",
+    "alt": "a blue background with a white number 65 at the top and the words 'The Winds of Change' at the bottom. A blue and white illustration of wind with stars at the center, depicted in the middle of the card",
+    "description": "Blessed changes are on the way to you. Go with the flow. Heading towards a new beginning.",
+    "keywords": [
+      "Flow",
+      "Changes"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "The Sanctuary",
+    "image": "images/66_TheSanctuary.png",
+    "alt": "a red background with a white number 66 at the top and the words 'The Sanctuary' at the bottom. A white illustration of a sacred temple with a crescent moon at the top, depicted at the center of the card",
+    "description": "Make time and space for the sacred; focusing more on your connection with Spirit. Taking a timeout to get grounded in faith. Creating sacred spaces in or around your home. Connecting with your spiritual foundation. Going to places of worship for spiritual nourishment. Your best sanctuary is within.",
+    "keywords": [
+      "Place of Worship",
+      "Faith"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "The Wholeness",
+    "image": "images/67_TheWholeness.png",
+    "alt": "a blue background with a white number 67 at the top and the words 'The Wholeness' at the bottom. A white, geometric pattern surrounds a multicolored illustration of the earth, depicted in the middle of the card",
+    "description": "You are whole and complete now; deep healing; completion of a cycle. Being authentically you; living an authentic life. Being accepted as you are. Coming full circle.",
+    "keywords": [
+      "Full Circle",
+      "Cycles"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "The Completion",
+    "image": "images/68_TheCompletion.png",
+    "alt": "a blue background with a white number 68 at the top and the words 'The Completion' at the bottom. A black and white illustration of hands clapping, depicted in the middle of the card",
+    "description": "Completing a cycle; learning a lesson. A blessed ending, making way for a new beginning. Successful conclusions.",
+    "keywords": [
+      "Conclusion",
+      "Endings"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "The Ally",
+    "image": "images/69_TheAlly.png",
+    "alt": "a bright green background with a white number 69 at the top and the words 'The Ally' at the bottom. A black illustration of two figures shaking hands, depicted in the middle of the card.",
+    "description": "Meeting someone new; potential new partnerships. Being supported by a mentor or someone who you look up to. This person can help you with your goals. Being supported. Earth Angels; prayers being answered by people.",
+    "keywords": [
+      "Assistance",
+      "Mentorship"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "The New Beginning",
+    "image": "images/70_TheNewBeginning.png",
+    "alt": "A purple background with a white number 70 at the top and the words 'The New Beginning' at the bottom. In the middle there is a multicolored illustration of a downward Hamsa Hand depicted with an open eye in the middle.",
+    "description": "Answered prayers. New beginnings. Clean slate, fresh start. New energy, new ideas.",
+    "keywords": [
+      "Fresh Start",
+      "Something New"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "The Sun Beams",
+    "image": "images/71_TheSunBeams.png",
+    "alt": "a bright green background with a white number 71 at the top and the words 'The Sun Beams' at the bottom. A white illustration of a sun, depicted in the middle of the card.",
+    "description": "Connect with Solar energy; work with the Sun for your spells and rituals. Spend time soaking in the sun; go outdoors. The Sun is working with you to support your dreams and goals. Illumination. Health and vitality. Divine Masculine energy.",
+    "keywords": [
+      "Illumination",
+      "Divine Masculine"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "The Moon Beams",
+    "image": "images/72_TheMoonBeams.png",
+    "alt": "A purple background with a white number 72 at the top and the words 'The Moon Beams' at the bottom. In the middle there is a light yellow illustration of a crescent moon.",
+    "description": "Connecting with Lunar energy; working with the Moon phases for rituals and spellwork. Going out at night and looking at the Moon. Connecting with Divine Feminine wisdom and intuition. Unlocking psychic gifts. Pay attention to your dreams. The Moon supports your dreams and goals.",
+    "keywords": [
+      "Intuition",
+      "Divine Feminine"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "The Om",
+    "image": "images/73_TheOm.png",
+    "alt": "a blue background with a white number 73 at the top and the words 'The Om' at the bottom. A multicolored illustration of a mandala depicted in the middle of the card.",
+    "description": "The Universe is within you; you have the power to connect and unlock the Universal energy for your healing and work. Use your voice to speak up about your needs; chanting can help you tap in to the energy of creation. Chanting OM can unlock creativity and your superpowers. Also receiving relief from any hardships.",
+    "keywords": [
+      "Universal Energy",
+      "Mantras"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "The Fruits",
+    "image": "images/74_TheFruits.png",
+    "alt": "a blue background with a white number 74 at the top and the words 'The Fruits' at the bottom. A multicolored illustration of an appletree depicted in the middle of the card.",
+    "description": "Receiving the fruits from your labors; a time of harvest and abundance. Divine compensations. Your endeavors will be fruitful.",
+    "keywords": [
+      "Harvest",
+      "Reaping"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "The Safe Passage",
+    "image": "images/75_TheSafePassage.png",
+    "alt": "a blue background with a white number 75 at the top and the words 'The Safe Passage' at the bottom. A white illustration of a sail boat on the water depicted in the middle of the card",
+    "description": "Successfully overcoming an obstacle; you are being led to safe harbors. All is well. You are being guided. No need to worry. Also safe travels and safe birth of children or projects.",
+    "keywords": [
+      "Safe Travels",
+      "Voyage"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "The Wife",
+    "image": "images/76_TheWife.png",
+    "alt": "a red background with a white number 76 at the top and the words 'The Wife' at the bottom. A black illustration of a bride in a wedding dress holding a bouquet, depicted at the center of the card",
+    "description": "A worthy mate; Divine Feminine partnership; nurturing. An upgrade in relationship status; domestic affairs",
+    "keywords": [
+      "Domesticity",
+      "Spouse"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "The Limitless",
+    "image": "images/77_TheLimitless.png",
+    "alt": "a blue background with a white number 77 at the top and the words 'The Limitless' at the bottom. A multicolored illustration of an hourglass with a rainbow symbol of eternity at the forefront, depicted in the middle of the card",
+    "description": "There is no time or space that can contain you. You are boundless; any boundaries surrounding you now are self-made. Any boundaries are chosen by you. You cannot be contained. Creativity cannot be contained. Your Power cannot be contained. Everything is possible now. Don't hold yourself back; be fully you.",
+    "keywords": [
+      "Unlimited Potential",
+      "Source Energy"
+    ]
+  },
+
+  {
+    "id": 78,
+    "name": "The Bestseller",
+    "image": "images/78_TheBestseller.png",
+    "alt": "a red background with a white number 78 at the top and the words 'The Bestseller' at the bottom. A white illustration of an ink pot and quill, depicted at the center of the card",
+    "description": "You have the Midas touch; everything you are creating or working on will be successful. Your creative projects are blessed. Your products and services are blessed.",
+    "keywords": [
+      "Creative Projects",
+      "Products and Services"
+    ]
+  }
+]
